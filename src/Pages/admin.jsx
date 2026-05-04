@@ -1,0 +1,7 @@
+export default function AdminPage(){
+    return(
+        <div>
+            <h2>admin Page</h2>
+        </div>
+    )
+}
